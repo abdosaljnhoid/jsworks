@@ -1,4 +1,4 @@
-<script>
+
 
 function getUrlParameter(name) {
         name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
@@ -97,4 +97,4 @@ var categoryId = getUrlParameter('category_id');
         }
     });
 
-</script>
+
